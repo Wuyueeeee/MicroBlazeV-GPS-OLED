@@ -1,0 +1,3 @@
+C:/Users/li95sabi/Desktop/yue/project_22_ddr3/gpstest/build/CMakeFiles/gpstest.elf.dir
+C:/Users/li95sabi/Desktop/yue/project_22_ddr3/gpstest/build/CMakeFiles/edit_cache.dir
+C:/Users/li95sabi/Desktop/yue/project_22_ddr3/gpstest/build/CMakeFiles/rebuild_cache.dir

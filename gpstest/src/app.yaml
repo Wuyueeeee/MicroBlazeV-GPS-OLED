@@ -1,0 +1,4 @@
+domain_path: C:\Users\li95sabi\Desktop\yue\project_22_ddr3\platform\export\platform\sw\standalone_microblaze_riscv_0
+app_src_dir: C:\Xilinx_2024.2\Vitis\2024.2\data\embeddedsw\lib\sw_apps\hello_world
+template: hello_world
+lang: c
